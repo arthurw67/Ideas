@@ -1,1 +1,10 @@
 # Ideas
+- Scratch Clone
+- Search engine
+- Sparx automation
+- Spinning Dounut
+- Brainrot transalator
+- Ai chatbot
+- Firefox clone
+- Portfolio website
+- Minigames for kdnsite.site
